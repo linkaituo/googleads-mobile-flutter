@@ -22,8 +22,8 @@ flutter:
   plugin:
     platforms:
       android:
-        package: io.flutter.plugins.googlemobileads
-        pluginClass: GoogleMobileAdsPlugin
+        package: com.linkaituo.flutter_plugin_test
+        pluginClass: FlutterPluginTestPlugin
       ios:
         pluginClass: FLTGoogleMobileAdsPlugin
 
